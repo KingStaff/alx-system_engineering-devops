@@ -1,6 +1,7 @@
 <b>0x07. Networking basics #0</b>
 
 <b>Tasks</b>
+
 0. OSI model
 1. Types of network
 2. MAC and IP address
