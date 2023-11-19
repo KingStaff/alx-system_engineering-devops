@@ -2,6 +2,7 @@
 
 ## Resources:books:
 
+Explore the following readings and videos:
 Read or watch:
 
 - **Application server vs web server**
